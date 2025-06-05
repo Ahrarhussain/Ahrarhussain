@@ -30,6 +30,7 @@ I'm a full-stack developer and a writer building my own narrative one line at a 
 <img align="left" alt="GitHub" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <br />
+<br />
 
 #
 
