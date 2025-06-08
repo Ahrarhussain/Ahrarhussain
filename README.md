@@ -9,6 +9,8 @@ I'm a full-stack developer and a writer building my own narrative one line at a 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ahrarhussain?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Ahrarhussain?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ahrarhussain?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/Ahrarhussain">
+         <img alt="Profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=Ahrarhussain&style=for-the-badge&color=FFA500"/></a>
    </p>
 
 ---
