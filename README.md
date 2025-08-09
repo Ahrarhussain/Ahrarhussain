@@ -4,13 +4,17 @@
 
 I'm a full-stack developer and a writer building my own narrative one line at a time.
 
+
    <p align="left">
-      <a href="https://github.com/Ahrarhussain?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ahrarhussain?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Ahrarhussain?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ahrarhussain?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/Ahrarhussain">
-         <img alt="Profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=Ahrarhussain&style=for-the-badge&color=FFA500"/></a>
+     <a href="https://github.com/Ahrarhussain?tab=followers">
+       <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Ahrarhussain?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=236ad3&labelColor=1155ba&cacheSeconds=10800"/>
+     </a>
+     <a href="https://github.com/Ahrarhussain?tab=repositories&sort=stargazers">
+       <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Ahrarhussain?style=for-the-badge&logo=star&color=55960c&labelColor=488207&cacheSeconds=10800"/>
+     </a>
+     <a href="https://github.com/Ahrarhussain">
+       <img alt="Profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=Ahrarhussain&style=for-the-badge&color=FFA500"/>
+     </a>
    </p>
 
 ---
