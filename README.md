@@ -34,12 +34,13 @@ Connect with me on [LinkedIn](https://linkedin.com/in/ahrar-hussain) or check ou
 ![SQL](https://img.shields.io/badge/SQL-2aa198?logo=mysql) 
 
 **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js) 
-![Svelte](https://img.shields.io/badge/Svelte-f73c00?logo=svelte) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) 
-![Express](https://img.shields.io/badge/Express-000000?logo=express) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js)  
+![Svelte](https://img.shields.io/badge/Svelte-f73c00?logo=svelte)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)  
+![Express](https://img.shields.io/badge/Express-000000?logo=express)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)  
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb) 
