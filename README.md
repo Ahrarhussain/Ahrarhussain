@@ -27,25 +27,23 @@ Connect with me on [LinkedIn](https://linkedin.com/in/ahrar-hussain) or check ou
 ### 💻 Tech Stack
 
 **Languages**  
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2b%2b) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript) 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) 
 ![SQL](https://img.shields.io/badge/SQL-2aa198?logo=mysql) 
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript) 
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2b%2b) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript) 
 
 **Frameworks & Libraries**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js) 
-![Svelte](https://img.shields.io/badge/Svelte-f73c00?logo=svelte) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) 
 ![Express](https://img.shields.io/badge/Express-000000?logo=express) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) 
 
 **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb) 
 
 **DevOps/Infra**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) 
